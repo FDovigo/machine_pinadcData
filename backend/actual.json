@@ -2,21 +2,21 @@
   {
     "id": "1",
     "adress": "Rua Alberto Ferreira Nobre", 
-    "number": "145",
+    "number": "145"
   },
   {
     "id": "2",
     "adress": "Avenida Pedro Vicente de Azevedo", 
-    "number": "137",
+    "number": "137"
   },
   {
     "id": "3",
     "adress": "Avenida Pedro Gonçalves", 
-    "number": "906",
+    "number": "906"
   },
   {
     "id": "4",
     "adress": "Rua Manoel da Costa Manso", 
-    "number": "107",
+    "number": "107"
   }
 ]
